@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {   
     "cypress": "^7.5.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run"
   },
-  "author": "",
+  "author": "Mohammed Saeed <seidumohammed64@gmail.com>",
   "license": "ISC"
 }
